@@ -1,2 +1,2 @@
 # Application de paint 
-fait en jaja
+fait en java
